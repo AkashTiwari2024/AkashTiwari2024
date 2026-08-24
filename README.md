@@ -82,9 +82,6 @@ My hands-on work includes:
 **Diploma — Computer Programming**  
 Seneca Polytechnic | 2026
 
-**Master of Business Administration (MBA)**  
-Edinburgh Business School, Heriot-Watt University
-
 **BA (Hons) — Marketing Management**  
 Anglia Ruskin University
 
